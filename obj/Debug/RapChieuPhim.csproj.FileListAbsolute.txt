@@ -1,0 +1,163 @@
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fLogin.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Properties.Resources.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe.config
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.pdb
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.exe
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fManHinhChinh.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fPhong.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fNhanVien.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pPhim.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pTheLoaiPhim.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pDinhDangPhim.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pKhachHang.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.AboutBox.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Flash.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fKhachHang.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pLoaiVe.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pThongTinVe.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuVE.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuDatVe.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pVe.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuPhim.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fTaiKhoan.resources
+D:\File Ca Nhan\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pChonPhim.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe.config
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.pdb
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.AboutBox.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fKhachHang.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Flash.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fLogin.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fManHinhChinh.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fNhanVien.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fPhong.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fTaiKhoan.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuDatVe.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuPhim.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pChonPhim.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pLoaiVe.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pThongTinVe.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuVE.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pDinhDangPhim.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pKhachHang.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pPhim.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Properties.Resources.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pTheLoaiPhim.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pVe.resources
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.exe
+D:\File cá nhân\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe.config
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.pdb
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.AboutBox.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fKhachHang.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Flash.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fManHinhChinh.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fNhanVien.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fPhong.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fTaiKhoan.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuPhim.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pChonPhim.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pLoaiVe.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pThongTinVe.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuVE.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pDinhDangPhim.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pKhachHang.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pPhim.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Properties.Resources.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pTheLoaiPhim.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pVe.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.exe
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongKeNV.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongKeKhachHang.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongKeVe.resources
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\BCrypt.Net-Next.dll
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Buffers.dll
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Memory.dll
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Numerics.Vectors.dll
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\BCrypt.Net-Next.xml
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Buffers.xml
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Memory.xml
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Numerics.Vectors.xml
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieu.FBFCA39F.Up2Date
+D:\Personal\ConMeNo\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fDangNhap.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe.config
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.pdb
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\BCrypt.Net-Next.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Buffers.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Memory.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Numerics.Vectors.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\BCrypt.Net-Next.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Buffers.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Memory.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Numerics.Vectors.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.AssemblyReference.cache
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.AboutBox.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fDangNhap.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fKhachHang.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Flash.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fManHinhChinh.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fNhanVien.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fPhong.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fTaiKhoan.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongKeKhachHang.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongKeNV.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongKeVe.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuPhim.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pDinhDangPhim.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pPhim.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.Properties.Resources.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pTheLoaiPhim.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.GenerateResource.cache
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.csproj.CoreCompileInputs.cache
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieu.FBFCA39F.Up2Date
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.exe
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pdb
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pSuatChieuPhim.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pThemKhachHang.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fThongTinVe.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fHoaDon.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fDatVe.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.fLoaiVe.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.pStart.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.exe.manifest
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RapChieuPhim.application
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.exe.manifest
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.application
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\QLRCP.sql
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\Resources\oxp.wav
+D:\Personal\DevL\dotNET\RapChieuPhim\obj\Debug\RapChieuPhim.menuThongKe.resources
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ClosedXML.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ClosedXML.Parser.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ExcelNumberFormat.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RBush.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\SixLabors.Fonts.dll
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ClosedXML.pdb
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ClosedXML.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ClosedXML.Parser.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\ExcelNumberFormat.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\RBush.xml
+D:\Personal\DevL\dotNET\RapChieuPhim\bin\Debug\SixLabors.Fonts.xml
